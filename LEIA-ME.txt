@@ -1,0 +1,12 @@
+Para minha Dondoka 🌙
+
+COMO PUBLICAR NO GITHUB PAGES
+1. Extraia este ZIP.
+2. Entre no seu repositório do GitHub.
+3. Clique em Add file → Upload files.
+4. Envie index.html para a raiz do repositório (não deixe dentro de outra pasta).
+5. Clique em Commit changes.
+6. Vá em Settings → Pages.
+7. Em Build and deployment, escolha Deploy from a branch, branch main e pasta /(root), depois salve.
+
+As fotos usam URLs públicas do Unsplash e precisam de internet. O site é HTML/CSS/JavaScript puro; não precisa instalar nada nem pagar por hospedagem.
