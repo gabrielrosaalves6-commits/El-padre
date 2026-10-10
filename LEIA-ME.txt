@@ -1,12 +1,13 @@
 Para minha Dondoka 🌙
 
+VERSÃO ATUALIZADA: inclui a música “Can't Help Falling in Love”, de Elvis Presley, reproduzida pelo player do YouTube.
+
 COMO PUBLICAR NO GITHUB PAGES
 1. Extraia este ZIP.
 2. Entre no seu repositório do GitHub.
 3. Clique em Add file → Upload files.
-4. Envie index.html para a raiz do repositório (não deixe dentro de outra pasta).
-5. Clique em Commit changes.
-6. Vá em Settings → Pages.
-7. Em Build and deployment, escolha Deploy from a branch, branch main e pasta /(root), depois salve.
+4. Envie index.html para a raiz do repositório.
+5. Se o GitHub perguntar, confirme substituir o arquivo existente; depois clique em Commit changes.
+6. Se o GitHub Pages já estava funcionando, normalmente não precisa alterar Settings → Pages de novo.
 
-As fotos usam URLs públicas do Unsplash e precisam de internet. O site é HTML/CSS/JavaScript puro; não precisa instalar nada nem pagar por hospedagem.
+As fotos e a música precisam de internet. A música toca por meio do player oficial do YouTube; não há arquivo de música protegido por direitos autorais incluído no ZIP.
